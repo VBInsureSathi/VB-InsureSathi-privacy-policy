@@ -1,1 +1,0 @@
-# VB-InsureSathi-privacy-policy
