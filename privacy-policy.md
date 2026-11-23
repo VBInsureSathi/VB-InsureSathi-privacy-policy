@@ -54,7 +54,7 @@ We do not sell your personal data to third parties for marketing purposes.
 
 ## 6. WhatsApp Communication
 
-When you use the WhatsApp option in the app, you will be redirected to WhatsApp to chat with 8008542676. WhatsApp messages are governed by WhatsApp's own Privacy Policy. Please do not share banking passwords or other sensitive financial credentials through WhatsApp.
+When you use the WhatsApp option in the app, you will be redirected to WhatsApp to chat. WhatsApp messages are governed by WhatsApp's own Privacy Policy. Please do not share banking passwords or other sensitive financial credentials through WhatsApp.
 
 ## 7. Data Storage and Security
 
@@ -75,7 +75,7 @@ You may:
 - Request deletion of your account data
 - Stop receiving WhatsApp communications at any time
 
-To make a request, contact us on 8008542676.
+To make a request, contact us on vishwabrothersins@gmail.com
 
 ## 10. Children's Privacy
 
@@ -90,6 +90,6 @@ We may update this Privacy Policy from time to time. The updated policy will be 
 If you have questions about this Privacy Policy, contact:
 
 **VB InsureSathi**  
-Phone / WhatsApp: **8008542676**
+Mail: **vishwabrothersins@gmail.com**
 
 By using VB InsureSathi, you agree to this Privacy Policy.
